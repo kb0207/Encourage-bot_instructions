@@ -1,4 +1,4 @@
-**# Encourage-bot_instructions**
+# **Instruction to use the Encourage Bot**
 
 ## Getting an encouraging quote from the bot
 
