@@ -14,7 +14,7 @@ _(NOTE: This only works on some words that are stated above. I am working toward
 
 ## Adding your encouraging quote
 
-Let's say you have got an amazing encouraging quote in your mind, but it's not gonna teleport it to the bot's code. Hence I have added another command for people to add their encouraging quotes. Just type in `#new` and `type your encouraging quote beside it` like this:- <br/>
+Let's say you have got an amazing encouraging quote in your mind, but it's not gonna teleport it to the bot's code. Hence I have added another command for people to add their encouraging quotes. Just type in `#new` and `type your encouraging quote` beside it like this:- <br/>
 `#new You are Amazing` and hit enter. This command has added a customized encouraging quote that says **You are amazing** when you write words like `angry` or `sad`. The bot will notify you when the quote is added to the list. 
 
 ## To view the list of added encouraging quotes 
