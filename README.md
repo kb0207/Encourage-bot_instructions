@@ -25,6 +25,14 @@ _(NOTE: These are manually added by the user and are not the one which you get w
 
 ## Deleting an encouraging quote
 
-Let's assume you added a wrong or misspelled encouraging quote and you want to delete it. Well I have added another command to which the bot can repsond to by deleting the required quote. For this you'll need to have the list of the quotes to see which number of quote _(Numbering starts with 0)_ you want to delete as there might be many quotes already added. Go above to see how to [view the list of encouraging quotes](). Then type in `#del` and besides it, add the number of the the quote from the list we just retrieved. Enter the command and boom! your designated number of quote form the list is deleted by the bot. 
+Let's assume you added a wrong or misspelled encouraging quote and you want to delete it. Well I have added another command to which the bot can repsond to by deleting the required quote. For this you'll need to have the list of the quotes to see which number of quote _(Numbering starts with 0)_ you want to delete as there might be many quotes already added. Go above to see how to [view the list of encouraging quotes](https://github.com/kb0207/Encourage-bot_instructions/blob/main/README.md#to-view-the-list-of-added-encouraging-quotes). Then type in `#del` and besides it, `add the number of the the quote from the list` we just retrieved. Enter the command and boom! your designated number of quote form the list is deleted by the bot. Here's an example for you to understand better:- <br/>
+List is:
+> (You are amazing, You are the best!, You will get through this phase) <br/>
+> Numbering for the above list is 0,1,2 <br/>
+**The numbering of the quotes starts with 0 (zero)** <br/>
+Now assume you want to delete the quote "You are the best!" which is "1" as per the numbering.<br/> 
+So to delete that quote, we have to type `#del 1` <br/>
+and that the quote- "You are the best!" is going to be deleted form the list
+<br/>
 
 ***For more accessibily, I will be adding more commands to the bot when I get free from my studies***
